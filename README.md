@@ -4,7 +4,7 @@ This is the repository of the article entitled
 
 ## Abstract
 
-The semantic segmentation of log faces constitutes the initial step towards subsequent quality analyses of timber, such as quantifying properties like mechanical strength, durability, and the aesthetic attributes of growth rings. In the literature, works based on both classical and machine learning approaches for this purpose can be found. However, more recent architectures and techniques, such as Vits or even the latest CNNs, have not yet been thoroughly evaluated. This study presents a comparison of modern deep neural network architectures for cross-section segmentation in images of log ends. The results obtained indicate that the networks using the ViTs considered in this work outperformed those previously evaluated in terms of both accuracy and processing time.\
+The semantic segmentation of log faces constitutes the initial step towards subsequent quality analyses of timber, such as quantifying properties like mechanical strength, durability, and the aesthetic attributes of growth rings. In the literature, works based on both classical and machine learning approaches for this purpose can be found. However, more recent architectures and techniques, such as Vits or even the latest CNNs, have not yet been thoroughly evaluated. This study presents a comparison of modern deep neural network architectures for cross-section segmentation in images of log ends. The results obtained indicate that the networks using the ViTs considered in this work outperformed those previously evaluated in terms of both accuracy and processing time.
 
 ![Image Abstract](ImageAbstract.png)
 
