@@ -10,8 +10,8 @@ The semantic segmentation of log faces constitutes the initial step towards subs
 
 ## Deploy
 
-1 - Install [MM Segmentation](https://github.com/open-mmlab/mmsegmentation). This work was elaborated using MM Segmentation version 0.30.0.
-2 - Clone this repository\ ```shell git clone https://github.com/NackFelipe/ModernWoodSegmentation.git```
+1 - Install [MM Segmentation](https://github.com/open-mmlab/mmsegmentation). This work was elaborated using MM Segmentation version 0.30.0.\
+2 - Clone this repository ```git clone https://github.com/NackFelipe/ModernWoodSegmentation.git```\
 3 - Update the file cityscapes.py at your MM Segmentation installation folder (.../mmsegmentation/mmseg/datasets/cityscapes.py)\
 4 - Run the script main.py
 ```shell
