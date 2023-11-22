@@ -17,6 +17,10 @@ The semantic segmentation of log faces constitutes the initial step towards subs
 ```shell
 python main.py ${CONFIG_FILE} ${CHECKPOINT_FILE} [optional arguments]
 ```
+Example\
+```shell
+python main.py /home/user/Downloads/unet_all.py /home/user/Downloads/unet_all.pth
+```
 
 ## Usage
 
